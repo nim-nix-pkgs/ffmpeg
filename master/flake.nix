@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-ffmpeg-master.flake = false;
+  inputs.src-ffmpeg-master.ref   = "refs/heads/master";
   inputs.src-ffmpeg-master.owner = "momeemt";
-  inputs.src-ffmpeg-master.ref   = "master";
   inputs.src-ffmpeg-master.repo  = "ffmpeg.nim";
   inputs.src-ffmpeg-master.type  = "github";
   
