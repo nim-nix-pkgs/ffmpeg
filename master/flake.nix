@@ -11,7 +11,6 @@
   inputs.src-ffmpeg-master.ref   = "refs/heads/master";
   inputs.src-ffmpeg-master.owner = "momeemt";
   inputs.src-ffmpeg-master.repo  = "ffmpeg.nim";
-  inputs.src-ffmpeg-master.dir   = "";
   inputs.src-ffmpeg-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

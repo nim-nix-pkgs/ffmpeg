@@ -11,7 +11,6 @@
   inputs.src-ffmpeg-0_5_0.ref   = "refs/tags/0.5.0";
   inputs.src-ffmpeg-0_5_0.owner = "momeemt";
   inputs.src-ffmpeg-0_5_0.repo  = "ffmpeg.nim";
-  inputs.src-ffmpeg-0_5_0.dir   = "";
   inputs.src-ffmpeg-0_5_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
