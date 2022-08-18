@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-ffmpeg-master": "src-ffmpeg-master"
+        "src-ffmpeg-main": "src-ffmpeg-main"
       }
     },
-    "src-ffmpeg-master": {
+    "src-ffmpeg-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1658561377,
-        "narHash": "sha256-phD7/1H5e9IA4slJvCm4h7m4GPZmbzwJnfK6T9osXdk=",
+        "lastModified": 1660550008,
+        "narHash": "sha256-HcILdNdGbcz6T/sFS7JKtaMcTu68sUISHwQ8/pWtGTM=",
         "owner": "momeemt",
         "repo": "ffmpeg.nim",
-        "rev": "95fd47f0a25a7afcee5c1138fae33c167d9d0143",
+        "rev": "d142e0a1cf4d8fa0cd43f28e6e9b7b04c6fef217",
         "type": "github"
       },
       "original": {
         "owner": "momeemt",
-        "ref": "refs/heads/master",
+        "ref": "refs/heads/main",
         "repo": "ffmpeg.nim",
         "type": "github"
       }
