@@ -111,11 +111,11 @@
       },
       "locked": {
         "dir": "0_3_11",
-        "lastModified": 1668748751,
-        "narHash": "sha256-r2CzAitQMq6zaHEnF99bZxNGwCG5JbcxLLI0P9juY5Q=",
+        "lastModified": 1668754527,
+        "narHash": "sha256-Y+If4xaXWk8bMNgg28891u1lknOXbs59GsqIYubr84U=",
         "owner": "nim-nix-pkgs",
         "repo": "ffmpeg",
-        "rev": "e74b8e25af22b25489439f700cac699182fb919d",
+        "rev": "8aa639af5f4578be9ddc3fc3116ab203b263798f",
         "type": "github"
       },
       "original": {
@@ -138,11 +138,11 @@
       },
       "locked": {
         "dir": "0_4_2",
-        "lastModified": 1668748751,
-        "narHash": "sha256-r2CzAitQMq6zaHEnF99bZxNGwCG5JbcxLLI0P9juY5Q=",
+        "lastModified": 1668754527,
+        "narHash": "sha256-Y+If4xaXWk8bMNgg28891u1lknOXbs59GsqIYubr84U=",
         "owner": "nim-nix-pkgs",
         "repo": "ffmpeg",
-        "rev": "e74b8e25af22b25489439f700cac699182fb919d",
+        "rev": "8aa639af5f4578be9ddc3fc3116ab203b263798f",
         "type": "github"
       },
       "original": {
@@ -165,11 +165,11 @@
       },
       "locked": {
         "dir": "0_5_0",
-        "lastModified": 1668748751,
-        "narHash": "sha256-r2CzAitQMq6zaHEnF99bZxNGwCG5JbcxLLI0P9juY5Q=",
+        "lastModified": 1668754527,
+        "narHash": "sha256-Y+If4xaXWk8bMNgg28891u1lknOXbs59GsqIYubr84U=",
         "owner": "nim-nix-pkgs",
         "repo": "ffmpeg",
-        "rev": "e74b8e25af22b25489439f700cac699182fb919d",
+        "rev": "8aa639af5f4578be9ddc3fc3116ab203b263798f",
         "type": "github"
       },
       "original": {
@@ -192,11 +192,11 @@
       },
       "locked": {
         "dir": "0_5_4",
-        "lastModified": 1668748751,
-        "narHash": "sha256-r2CzAitQMq6zaHEnF99bZxNGwCG5JbcxLLI0P9juY5Q=",
+        "lastModified": 1668754527,
+        "narHash": "sha256-Y+If4xaXWk8bMNgg28891u1lknOXbs59GsqIYubr84U=",
         "owner": "nim-nix-pkgs",
         "repo": "ffmpeg",
-        "rev": "e74b8e25af22b25489439f700cac699182fb919d",
+        "rev": "8aa639af5f4578be9ddc3fc3116ab203b263798f",
         "type": "github"
       },
       "original": {
@@ -219,11 +219,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668748751,
-        "narHash": "sha256-r2CzAitQMq6zaHEnF99bZxNGwCG5JbcxLLI0P9juY5Q=",
+        "lastModified": 1668754527,
+        "narHash": "sha256-Y+If4xaXWk8bMNgg28891u1lknOXbs59GsqIYubr84U=",
         "owner": "nim-nix-pkgs",
         "repo": "ffmpeg",
-        "rev": "e74b8e25af22b25489439f700cac699182fb919d",
+        "rev": "8aa639af5f4578be9ddc3fc3116ab203b263798f",
         "type": "github"
       },
       "original": {
